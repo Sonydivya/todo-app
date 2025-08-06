@@ -20,7 +20,7 @@ todo-app/
 ├── script.js
 
 ## 🚀 Live Demo
-[Click here to view](https://your-username.github.io/todo-app/)
+[Click here to view](https://sonydivya.github.io/todo-app/)
 
 ## 📋 How to Use
 1. Clone the repository:  
